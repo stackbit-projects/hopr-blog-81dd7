@@ -1,6 +1,6 @@
 ---
 title: The hopr blog
-subtitle: 'News, how to''s, and highlights'
+subtitle: 'News, how to''s, and thinking'
 hide_title: false
 col_number: three
 layout: blog
